@@ -1,4 +1,4 @@
-# Contains SQL syntax and sample queries
+# Part 1 - Contains SQL syntax and sample queries
 
 ### SQL Queries Part1:
 SQL Statement Fundamentals: 
@@ -21,6 +21,8 @@ DROP, CHECK, NOT NULL, UNIQUE *
 
 ### SQL Queries Part5:
 Extra Views: VIEW
+
+# Part 2 - Contains SQL syntax and sample queries
 
 
 
